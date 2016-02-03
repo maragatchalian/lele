@@ -1,3 +1,5 @@
 this is issue 1
 
+i want a conflict
+
 this is an update of issue#1
